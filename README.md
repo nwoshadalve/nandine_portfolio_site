@@ -14,4 +14,4 @@ https://flourishing-zabaione-a51adf.netlify.app/
 
 ## Author
 
-- [@octokatherine](https://www.facebook.com/nowshadalve)
+- [Nwoshad Alve](https://www.facebook.com/nowshadalve)
