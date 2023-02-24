@@ -1,0 +1,39 @@
+Images collections
+====================
+done
+
+Colors
+====================
+color__primary               :#ff0000
+color__secondary	         :#fe320a
+
+nav__bg                      :rgba(158, 157, 157, 0.49)
+about__card                  :rgba(102, 102, 102, 0.69)
+
+body__text__primary          :#1e1e1e
+body__text__secondary        :#252525
+
+text__heading                :#151515
+
+Typography
+====================
+framework
+-----------
+body__text_primary          :14px
+line__height_primary        :24px
+line__height_secondary      :26px
+
+Section__tittle             :30px
+line__height                :24px
+vartical__align             :25
+
+
+head
+-----------
+Tittle_size     :60px
+Tittle_line_h   :24px
+Tittle_v_align  :25
+
+Spacing
+====================
+Section padding		:80px
