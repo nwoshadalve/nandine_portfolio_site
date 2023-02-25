@@ -4,7 +4,7 @@ perfect Design as much as I could. The HTML structure is also SEO-friendly.
 
 ## Demo
 
-https://flourishing-zabaione-a51adf.netlify.app/
+https://vocal-marigold-25ccf3.netlify.app
 
 ## Technologies Used
 
